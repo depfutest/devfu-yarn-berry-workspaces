@@ -19,10 +19,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:2.1.2":
-  version: 2.1.2
-  resolution: "jquery@npm:2.1.2"
-  checksum: 3c597d7f483d76a5fc227452a337caa5b1f8e2943712e8124031e5997cbbe06e7c2fae2722eaf2cfb640be6f6775bf916e8a812c6da661e0aff12968cd40dd26
+"jquery@npm:3.6.2":
+  version: 3.6.2
+  resolution: "jquery@npm:3.6.2"
+  checksum: b8ca408b9447e67e614204dbc4b2e71c6ea76eff281942d233769d969eed97fe28ffa34976e9ad9d3faad9b0a0d947d7e326ed272243679a9f5812a586c84168
   languageName: node
   linkType: hard
 
@@ -59,7 +59,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    jquery: 2.1.2
+    jquery: 3.6.2
     pkg-b: 1.0.0
   languageName: unknown
   linkType: soft
